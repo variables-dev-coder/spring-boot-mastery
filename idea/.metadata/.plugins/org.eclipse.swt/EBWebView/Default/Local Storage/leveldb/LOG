@@ -1,2 +1,3 @@
-2025/09/07-18:11:39.730 2624 Creating DB D:\Spring Boot\Spring Boot Mastery\idea\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/09/07-18:11:39.810 2624 Reusing MANIFEST D:\Spring Boot\Spring Boot Mastery\idea\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/09/09-01:17:56.625 3284 Reusing MANIFEST D:\Spring Boot\Spring Boot Mastery\idea\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/09/09-01:17:56.640 3284 Recovering log #3
+2025/09/09-01:17:56.642 3284 Reusing old log D:\Spring Boot\Spring Boot Mastery\idea\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
