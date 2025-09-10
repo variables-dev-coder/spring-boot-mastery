@@ -2,10 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day3-properties-logging"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot2"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day3-properties-logging"/>
 			<item value="hello-spring-boot2"/>
 			<item value="hello-spring-boot"/>
 			<item value="[artifactId]"/>
