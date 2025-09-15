@@ -2,12 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day4-core-annotations-clean"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day-4-core-annotations"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day3-properties-logging"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot2"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day4-core-annotations-clean"/>
 			<item value="day-4-core-annotations"/>
 			<item value="day3-properties-logging"/>
 			<item value="hello-spring-boot2"/>
