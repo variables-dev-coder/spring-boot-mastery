@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day6-exception-handling"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day5-rest-api"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day5-rest-api-basics"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day4-core-annotations-clean"/>
@@ -11,6 +12,7 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day6-exception-handling"/>
 			<item value="day5-rest-api"/>
 			<item value="day5-rest-api-basics"/>
 			<item value="day4-core-annotations-clean"/>
