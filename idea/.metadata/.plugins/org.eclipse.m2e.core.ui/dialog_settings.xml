@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day8-spring-data-jpa"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day7-hello-api"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day6-exception-handling"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day5-rest-api"/>
@@ -13,6 +14,7 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day8-spring-data-jpa"/>
 			<item value="day7-hello-api"/>
 			<item value="day6-exception-handling"/>
 			<item value="day5-rest-api"/>
@@ -27,7 +29,6 @@
 			<item value="[artifactId]-[version]"/>
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
 		</list>
 	</section>
 </section>
