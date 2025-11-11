@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day11-transactions"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day10-database-integration"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day9-repositories-queries"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day8-spring-data-jpa"/>
@@ -16,6 +17,7 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day11-transactions"/>
 			<item value="day10-database-integration"/>
 			<item value="day9-repositories-queries"/>
 			<item value="day8-spring-data-jpa"/>
@@ -30,7 +32,6 @@
 			<item value="hello-spring-boot"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
-			<item value="[artifactId]-[version]"/>
 		</list>
 	</section>
 </section>
