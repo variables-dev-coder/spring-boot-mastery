@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day13-relationships"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\employee-management-system"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day11-transactions"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day10-database-integration"/>
@@ -18,6 +19,7 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\hello-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day13-relationships"/>
 			<item value="employee-management-system"/>
 			<item value="day11-transactions"/>
 			<item value="day10-database-integration"/>
@@ -32,7 +34,6 @@
 			<item value="day3-properties-logging"/>
 			<item value="hello-spring-boot2"/>
 			<item value="hello-spring-boot"/>
-			<item value="[artifactId]"/>
 		</list>
 	</section>
 </section>
