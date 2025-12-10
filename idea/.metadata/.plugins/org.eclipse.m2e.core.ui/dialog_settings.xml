@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day16-scheduler-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day15-profiles"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day15-profiles-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\student-management-system"/>
@@ -16,9 +17,9 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\day5-rest-api"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day5-rest-api-basics"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day4-core-annotations-clean"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\day-4-core-annotations"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day16-scheduler-demo"/>
 			<item value="day15-profiles"/>
 			<item value="day15-profiles-demo"/>
 			<item value="student-management-system"/>
@@ -33,7 +34,6 @@
 			<item value="day5-rest-api"/>
 			<item value="day5-rest-api-basics"/>
 			<item value="day4-core-annotations-clean"/>
-			<item value="day-4-core-annotations"/>
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
