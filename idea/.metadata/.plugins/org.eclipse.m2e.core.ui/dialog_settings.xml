@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\day25-roles-permissions"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day24-jwt-auth"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day23-password-encoding"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day22-spring-security-basics"/>
@@ -16,9 +17,9 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\student-management-system"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day13-relationships"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\employee-management-system"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\day11-transactions"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="day25-roles-permissions"/>
 			<item value="day24-jwt-auth"/>
 			<item value="day23-password-encoding"/>
 			<item value="day22-spring-security-basics"/>
@@ -33,7 +34,6 @@
 			<item value="student-management-system"/>
 			<item value="day13-relationships"/>
 			<item value="employee-management-system"/>
-			<item value="day11-transactions"/>
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
