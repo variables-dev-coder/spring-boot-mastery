@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\employee-security"/>
+			<item value="D:\Spring Boot\Spring Boot Mastery\login-signup-basic"/>
+			<item value="D:\Spring Boot\Spring Boot Mastery\day26-secure-employee-api"/>
+			<item value="D:\Spring Boot\Spring Boot Mastery\day25-security-concepts"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day25-roles-permissions"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day24-jwt-auth"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day23-password-encoding"/>
@@ -13,12 +17,12 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\day17-caching"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day16-scheduler-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day15-profiles"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\day15-profiles-demo"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\student-management-system"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\day13-relationships"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\employee-management-system"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="employee-security"/>
+			<item value="login-signup-basic"/>
+			<item value="day26-secure-employee-api"/>
+			<item value="day25-security-concepts"/>
 			<item value="day25-roles-permissions"/>
 			<item value="day24-jwt-auth"/>
 			<item value="day23-password-encoding"/>
@@ -30,10 +34,6 @@
 			<item value="day17-caching"/>
 			<item value="day16-scheduler-demo"/>
 			<item value="day15-profiles"/>
-			<item value="day15-profiles-demo"/>
-			<item value="student-management-system"/>
-			<item value="day13-relationships"/>
-			<item value="employee-management-system"/>
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
