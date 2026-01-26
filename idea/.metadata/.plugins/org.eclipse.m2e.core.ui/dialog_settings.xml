@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\request-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\restdemo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\profiles-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\employee-security"/>
@@ -16,9 +17,9 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\day20-springboot-testing"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day19-devtools-hot-reload"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day18-file"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\day17-caching"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="request-demo"/>
 			<item value="restdemo"/>
 			<item value="profiles-demo"/>
 			<item value="employee-security"/>
@@ -33,7 +34,6 @@
 			<item value="day20-springboot-testing"/>
 			<item value="day19-devtools-hot-reload"/>
 			<item value="day18-file"/>
-			<item value="day17-caching"/>
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
