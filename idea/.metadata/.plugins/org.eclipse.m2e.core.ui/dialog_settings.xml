@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring Boot\Spring Boot Mastery\exception-handling-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\validation-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\dto-demo"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\request-demo"/>
@@ -16,9 +17,9 @@
 			<item value="D:\Spring Boot\Spring Boot Mastery\day23-password-encoding"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\day22-spring-security-basics"/>
 			<item value="D:\Spring Boot\Spring Boot Mastery\file-scheduler-cache-api"/>
-			<item value="D:\Spring Boot\Spring Boot Mastery\day20-springboot-testing"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="exception-handling-demo"/>
 			<item value="validation-demo"/>
 			<item value="dto-demo"/>
 			<item value="request-demo"/>
@@ -33,7 +34,6 @@
 			<item value="day23-password-encoding"/>
 			<item value="day22-spring-security-basics"/>
 			<item value="file-scheduler-cache-api"/>
-			<item value="day20-springboot-testing"/>
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
